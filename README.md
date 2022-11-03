@@ -1,6 +1,6 @@
 # haustier3000
 
-course at hochschule pforzheim
+workshop at hochschule pforzheim
 
 ## examples
 
